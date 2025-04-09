@@ -5,7 +5,7 @@ markdown: kramdown
 permalink: pretty
 
 # Navigation links for the top menu
-nav:
+header_links:
   - title: "About"
     url: "/"
   - title: "Projects"

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research
+---
+
+
 # Research
 
 Areas of interest:

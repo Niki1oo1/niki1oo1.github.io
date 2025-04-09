@@ -44,3 +44,8 @@ nav ul li a:hover {
     margin-bottom: 10px;
   }
 }
+
+/* Ensure that the links inside the nav are fully visible */
+nav ul li a {
+  visibility: visible !important; /* Ensure the links are visible */
+}

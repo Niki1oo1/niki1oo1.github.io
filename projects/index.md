@@ -14,4 +14,4 @@ A brief description of what Project Alpha does, what technologies are used, and 
 ## Project Beta
 Details about another project, maybe with a link or screenshots.
 
-Stay tuned — more coming soon!
+Stay tuned — more coming soon!a

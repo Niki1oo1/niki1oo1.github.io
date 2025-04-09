@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Blog
 
-I occasionally write about ideas, tutorials, or thoughts from my work and study.
+I occasionally write about ideas, tutorials, or thoughts from my work and study.a
 
 Stay tuned for upcoming posts!
 

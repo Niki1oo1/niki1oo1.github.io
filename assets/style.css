@@ -1,20 +1,22 @@
-/* General Layout: Keep everything minimal */
-body {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: #ffffff;
-  color: #333333;
+/* Ensure minimal, centered navigation */
+nav {
+  display: flex;
+  justify-content: center; /* Center the items */
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px; /* Space between menu and content */
+  padding: 10px 0;
 }
 
-/* Navbar styling */
 nav ul {
-  list-style: none;
   display: flex;
+  list-style: none;
   margin: 0;
   padding: 0;
 }
 
 nav ul li {
-  position: relative;
   margin: 0 15px;
 }
 
@@ -23,42 +25,22 @@ nav ul li a {
   color: #333;
   font-weight: bold;
   text-transform: uppercase;
-}
-
-nav ul li:hover {
-  cursor: pointer;
-}
-
-/* Dropdown Menu */
-nav ul li ul {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #ffffff;
-  border: 1px solid #ddd;
-  padding: 10px;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
-
-nav ul li:hover ul {
+  padding: 5px 10px;
   display: block;
 }
 
-/* Custom Styling for Links */
-a:hover {
-  color: #007bff;
+nav ul li a:hover {
+  color: #007bff; /* Hover effect */
+  border-bottom: 2px solid #007bff; /* Underline effect on hover */
 }
 
-/* Home link in top-left corner (for your name) */
-h1 a {
-  font-size: 28px;
-  font-weight: bold;
-  color: #333;
-  text-decoration: none;
-  text-transform: uppercase;
-}
+/* Optional: Add more custom styles for responsiveness */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column; /* Stack items vertically on small screens */
+  }
 
-h1 a:hover {
-  color: #007bff;
+  nav ul li {
+    margin-bottom: 10px;
+  }
 }

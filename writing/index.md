@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+---
+
+
 # Writing
 
 In this section, I share my academic and professional writing — papers, articles, and essays.

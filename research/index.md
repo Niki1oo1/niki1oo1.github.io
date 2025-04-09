@@ -1,17 +1,17 @@
 ---
-layout: default
+layout: page
 title: Research
+permalink: /research/
 ---
-
 
 # Research
 
-Areas of interest:
+I’m currently exploring topics in mathematics, algorithms, and theoretical computer science.
 
-- Programming languages
-- Type systems
-- Program analysis
-- Compiler tooling
+## Interests
+- Graph theory
+- Complexity theory
+- Formal methods
 
-(Currently in progress — papers, write-ups, and reading lists will go here.)
-
+## Papers & Notes
+- _Coming soon:_ preprints and informal notes on ongoing work.

@@ -1,23 +1,13 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
+permalink: /
 ---
 
+# About Me
 
-# Welcome to my website!
+Hi! I'm Nikola Veselinov.
 
-I’m **Nikola Veselinov**, a software developer and researcher passionate about simplicity, performance, and thoughtful systems design. This is my personal space to share projects, research, teaching, writing, and blog posts.
+I'm interested in mathematics, computer science, and their intersection in solving real-world problems. This site is a place to share my current projects, research, and occasional thoughts through my blog.
 
----
-
-## Key Sections:
-
-- [Projects](#projects)
-- [Research](#research)
-- [Teaching](#teaching)
-- [Writing](#writing)
-- [Blog](#blog)
-
----
-
-This site is intentionally minimal. No JavaScript. No distractions.
+Feel free to explore what I’m working on!

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 # Welcome to my website!
 
 I’m **Nikola Veselinov**, a software developer and researcher passionate about simplicity, performance, and thoughtful systems design. This is my personal space to share projects, research, teaching, writing, and blog posts.

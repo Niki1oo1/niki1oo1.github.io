@@ -1,6 +1,17 @@
-title: Nikola Veselinov
-description: >
-  A minimal site to share my projects, research, and blog posts.
+title: "Nikola Veselinov"
+description: "A minimal site to share my work, research, and writing."
 theme: minima
 permalink: pretty
 markdown: kramdown
+
+# Minima 3.0+ supports 'navigation' properly
+minima:
+  skin: auto
+  social_links: [] # optional
+  navigation:
+    - title: "Projects"
+      url: /projects/
+    - title: "Research"
+      url: /research/
+    - title: "Blog"
+      url: /blog/

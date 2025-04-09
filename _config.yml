@@ -1,17 +1,17 @@
 title: "Nikola Veselinov"
-description: "A minimal site to share my work, research, and writing."
+description: "Personal site of Nikola Veselinov"
 theme: minima
 permalink: pretty
 markdown: kramdown
 
-# Minima 3.0+ supports 'navigation' properly
 minima:
   skin: auto
-  social_links: [] # optional
   navigation:
-    - title: "Projects"
-      url: /projects/
+    - title: "Teaching"
+      url: /teaching/
     - title: "Research"
       url: /research/
+    - title: "Projects"
+      url: /projects/
     - title: "Blog"
       url: /blog/

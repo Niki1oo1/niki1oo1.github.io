@@ -1,20 +1,6 @@
 title: Nikola Veselinov
-description: A minimal site to share my work, research, teaching, and thoughts.
+description: >
+  A minimal site to share my projects, research, and blog posts.
 theme: minima
-markdown: kramdown
 permalink: pretty
-
-# Navigation links for the top menu
-header_links:
-  - title: "About"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Research"
-    url: "/research"
-  - title: "Teaching"
-    url: "/teaching"
-  - title: "Writing"
-    url: "/writing"
-  - title: "Blog"
-    url: "/blog"
+markdown: kramdown

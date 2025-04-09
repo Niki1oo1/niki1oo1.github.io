@@ -14,4 +14,4 @@ I’m currently exploring topics in mathematics, algorithms, and theoretical com
 - Formal methods
 
 ## Papers & Notes
-- _Coming soon:_ preprints and informal notes on ongoing work.
+- _Coming soon:_ preprints and informal notes on ongoing work.a

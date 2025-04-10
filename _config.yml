@@ -1,4 +1,4 @@
-title: "Nikola Veselinov"
+title: ""
 description: "© 2025 Nikola Veselinov. All rights reserved."
 theme: minima
 permalink: pretty
@@ -6,6 +6,9 @@ markdown: kramdown
 
 minima:
   skin: auto
+  show_title: false
+  show_footer_links: false
+
   navigation:
     - title: "Teaching"
       url: /teaching/
@@ -15,3 +18,9 @@ minima:
       url: /projects/
     - title: "Blog"
       url: /blog/
+
+sass:
+  style: compressed
+
+include:
+  - assets
